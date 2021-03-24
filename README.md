@@ -1,5 +1,5 @@
 # Linear-Programming
-Modeling and revolving different problems using solvers of  Julia's package Jump.
+Modeling and resolving different problems using solvers of  Julia's package Jump.
 Here are the subjects links:  
 TP1-2:  
 http://moodle-n7.inp-toulouse.fr/pluginfile.php/93350/mod_resource/content/6/SujetTPRO_1_2-v2.pdf.   
